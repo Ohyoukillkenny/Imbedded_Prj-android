@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/stop.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/stop.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/rocker.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/rocker.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/gravity.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/gravity.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/bluetooth.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/bluetooth.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/go.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/go.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/home.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/home.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/back.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/canvas.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/canvas.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/left.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/left.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/right.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/right.png"
+    },
+    {
+        "merged": "/Users/c/Downloads/MulCC/build/intermediates/res/merged/debug/drawable-ldpi-v4/button.png",
+        "source": "/Users/c/Downloads/MulCC/res/drawable-ldpi/button.png"
+    }
+]
