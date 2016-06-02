@@ -1,0 +1,85 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+    
+     <ImageButton
+        android:id="@+id/buttonhome"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/Home" 
+        android:src="@drawable/home"/>
+    <TextView
+        android:id="@+id/textb"
+        android:layout_width="348dp"
+        android:layout_height="101dp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:textColorHint="@color/white"
+        android:textIsSelectable="true"
+        android:textSize="24dp" />
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <ImageButton
+        android:id="@+id/buttonup"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/ButtonUp" 
+        android:src="@drawable/go"/>
+    <ImageButton
+        android:id="@+id/buttonstop"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonup"
+  		android:layout_centerHorizontal="true"
+        android:contentDescription="@string/ButtonStop" 
+        android:src="@drawable/stop"/>
+    <ImageButton
+        android:id="@+id/buttonleft"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/buttonstop"
+        android:layout_alignTop="@id/buttonstop"
+        android:layout_marginLeft="5dp"
+        android:contentDescription="@string/ButtonLeft"
+        android:src="@drawable/left"/>
+    
+    
+    
+    <ImageButton
+        android:id="@+id/buttonright"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/buttonstop"
+        android:layout_alignTop="@id/buttonstop"
+        android:layout_marginRight="5dp"
+        android:contentDescription="@string/ButtonRight" 
+        android:src="@drawable/right"/>
+	
+    <ImageButton
+        android:id="@+id/buttondown"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:layout_below="@id/buttonstop"
+        android:contentDescription="@string/ButtonDown"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/back"/>
+	</RelativeLayout>
+
+
+</LinearLayout>
