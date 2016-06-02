@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/org/example/mulcc/RockerSurface.java" />
+        <ignore path="src/org/example/mulcc/buttonButtonActivity.java" />
+        <ignore path="src/org/example/mulcc/canvasButtonActivity.java" />
+        <ignore path="src/org/example/mulcc/rockerButtonActivity.java" />
+    </issue>
+</lint>
