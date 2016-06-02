@@ -1,0 +1,8 @@
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$gravityButtonListener$override.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$InstructionThread$override.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$buttonButtonListener$override.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$1$override.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$BTsocketThread$override.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$override.class
+CHANGED,/Users/c/Downloads/MulCC/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/example/mulcc/MainActivity$BluetoothDeviceSelector$override.class
